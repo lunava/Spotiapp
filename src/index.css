@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  --spotifyWhite: #ffffff;
+  --spotifyGreen: #1DB954;
+  --spotifyDark: #000000;
+  --spotifyGray: #0A0808;
+}
+body{
+  margin: 0px;
+  background-color: var(--spotifyGray);
+}
